@@ -1,6 +1,7 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import { Box, Typography, Button } from "@mui/material";
+import { CurrentInterests } from "./Helpers/CurrentInterests";
 
 const BoxStyles = {
   width: "40%", // Adjust the width as needed
@@ -8,9 +9,8 @@ const BoxStyles = {
   fontFamily: "Ubuntu", // Specify the font family
   fontSize: "16px", // Specify the font size
   lineHeight: "1.5", // Specify the line height for readability
-  color: "#333", // Specify text color
-  textAlign: "center",
-  alignItems: "center",
+  //textAlign: "center",
+  color: "#3C6EBF",
   justifyContent: "center",
 };
 export const HomeScreen = () => {

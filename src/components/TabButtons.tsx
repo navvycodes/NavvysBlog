@@ -8,7 +8,7 @@ const boxStylings = {
 const buttonStylings = {
   borderRadius: "20px",
   mx: "3px",
-  backgroundColor: "#123C69",
+  backgroundColor: "#0E3164",
   fontFamily: "Ubuntu",
 };
 

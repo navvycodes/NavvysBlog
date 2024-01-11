@@ -4,20 +4,19 @@ import { HomeScreen } from "./components/sections/HomeScreen";
 import { Box } from "@mui/material";
 
 const BoxStyles = {
-  backgroundColor: '#EDC787',
-  height: '100%',
+  background: "#FAF9F6",
+  height: "100%",
   display: "flex",
   flexDirection: "column",
   alignItems: "center",
-  overflowY: 'auto'
-}
-
+  overflowY: "auto",
+};
 
 function App() {
   return (
-    <Box sx={BoxStyles} >
+    <Box sx={BoxStyles}>
       <Header />
-      <HomeScreen/>
+      <HomeScreen />
     </Box>
   );
 }

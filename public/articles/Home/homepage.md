@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Navvy, the author of this blog. I'm just a regular guy who is a jack of all trades but is a master of none. My goal is to entertain, educate, and inspire you with my diverse range of articles.
+I'm Navvy, the author of this blog. I'm just a regular guy who is a jack of all trades but is a master of none. My goal is to entertain you with my diverse range of articles.
 
 ## What to Expect
 
@@ -16,8 +16,6 @@ I encourage you to explore the articles, leave comments (when I get around to ad
 
 To stay updated with my latest posts and connect with me, you can:
 
-- Subscribe to my newsletter.
-- Follow me on [Twitter](https://twitter.com/YourTwitterHandle).
 - Email [me](mailto:daddynavvy@gmail.com).
 - Visit my [GitHub](https://github.com/navvycodes/navvysblog) page for this site's code.
 

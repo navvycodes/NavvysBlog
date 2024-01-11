@@ -3,7 +3,8 @@ import { TabButtons } from "./TabButtons";
 import { Typography, Box, Divider } from "@mui/material";
 const textStylings = {
   textAlign: "center",
-  fontFamily: "Ubuntu",
+  fontFamily: "Roboto",
+  color: "#214E91",
 };
 const BoxStyles = {
   flexDirection: "column",
